@@ -1,4 +1,4 @@
-(defproject incanter/incanter-core "1.9.1-SNAPSHOT"
+(defproject kixi/incanter-core "1.9.1-p0-3bf644a"
   :description "Incanter-core is the core module of the Incanter project."
   :url "http://incanter.org/"
   :license {:name "Eclipse Public License"

@@ -1,4 +1,4 @@
-(defproject incanter/incanter-svg "1.9.1-SNAPSHOT"
+(defproject kixi/incanter-svg "1.9.1-p0-3bf644a"
   :description "Incanter-svg is the SVG module of the Incanter project."
   :url "http://incanter.org/"
   :license {:name "Eclipse Public License"
@@ -7,7 +7,7 @@
         :url "https://github.com/incanter/incanter"
         :dir "modules/incanter-svg"}
   :min-lein-version "2.0.0"
-  :dependencies [[incanter/incanter-charts "1.9.1-SNAPSHOT"]
+  :dependencies [[kixi/incanter-charts "1.9.1-p0-3bf644a"]
                  [org.apache.xmlgraphics/batik-dom "1.7"]
                   [org.apache.xmlgraphics/batik-svggen "1.7"]
                   [org.apache.xmlgraphics/batik-awt-util "1.7"]
